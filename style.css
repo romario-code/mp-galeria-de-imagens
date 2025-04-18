@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300..900&display=swap');
+
+img {
+    display: block;
+    max-width: 100%;
+    min-height: 100% !important;
+    object-fit: cover !important;
+}
